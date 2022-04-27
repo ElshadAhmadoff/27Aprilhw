@@ -1,0 +1,92 @@
+.one{
+    width: 30%;
+    height: 80px;
+    background-color:aliceblue;
+    border: 1px solid black;
+    float: left;
+    margin-right: 10px;
+}
+.two{
+    width: 69%;
+    height: 80px;
+    background-color:aliceblue;
+    border: 1px solid black;
+    float: left;
+}
+.three{
+    width: 99.8%;
+    height: 80px;
+    background-color:aliceblue;
+    border: 1px solid black;
+    float: left;
+    margin-top: 10px;
+}
+.four{
+    width: calc(50% - 7px);
+    height: 200px;
+    background-color:aliceblue;
+    border: 1px solid black;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.four h2{
+    margin-top: 90px;
+}
+.five h2{
+    margin-top: 90px;
+}
+.six h2{
+    margin-top: 90px;
+}
+.seven h2{
+    margin-top: 90px;
+}
+.eight h2{
+    margin-top: 90px;
+}
+.five{
+    width: calc(50% - 7px);
+    height: 200px;
+    background-color:aliceblue;
+    border: 1px solid black;
+    float: left;
+    margin-top: 10px;
+}
+.six{
+    width:32.75%;
+    height: 200px;
+    background-color:aliceblue;
+    border: 1px solid black;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.seven{
+    width:32.75%;
+    height: 200px;
+    background-color:aliceblue;
+    border: 1px solid black;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.eight{
+    width:32.75%;
+    height: 200px;
+    background-color:aliceblue;
+    border: 1px solid black;
+    float: left;
+    margin-top: 10px;
+}
+.nine{
+    width:99.8%;
+    height: 80px;
+    background-color:aliceblue;
+    border: 1px solid black;
+    float: left;
+    margin-top: 10px;
+}
+div{
+    text-align: center;
+}
